@@ -7,18 +7,18 @@
   "description": "__MSG_description__",
   "author": "Cople",
   "icons": {
-    "16": "icon/16.png",
-    "32": "icon/32.png",
-    "48": "icon/48.png",
-    "96": "icon/96.png",
-    "128": "icon/128.png"
+    "16": "icon/icon.svg",
+    "32": "icon/icon.svg",
+    "48": "icon/icon.svg",
+    "96": "icon/icon.svg",
+    "128": "icon/icon.svg"
   },
   "page_action": {
     "default_icon": {
-      "16": "icon/16.png",
-      "19": "icon/19.png",
-      "32": "icon/32.png",
-      "38": "icon/38.png"
+      "16": "icon/icon.svg",
+      "19": "icon/icon.svg",
+      "32": "icon/icon.svg",
+      "38": "icon/icon.svg"
     },
     "default_title": "__MSG_generate__",
     "default_popup": "popup.html"
@@ -59,9 +59,5 @@
     "browser_style": true,
     "page": "options.html"
   },
-  "permissions": [
-    "contextMenus",
-    "activeTab",
-    "<all_urls>"
-  ]
+  "permissions": ["contextMenus", "activeTab", "<all_urls>"]
 }

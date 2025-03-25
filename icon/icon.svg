@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <style>
+        :root { color-scheme: light dark; } rect, path { fill: rgb(24, 25, 26); } @media (prefers-color-scheme: dark) { rect, path { fill: rgba(249, 249, 250, 0.8); } }
+    </style>
+    <rect width="6" height="1"/>
+    <rect width="6" height="1" x="10"/>
+    <rect width="6" height="1" y="5"/>
+    <rect width="6" height="1" x="10" y="5"/>
+    <rect width="1" height="4" y="1"/>
+    <rect width="1" height="4" x="10" y="1"/>
+    <rect width="1" height="4" x="5" y="1"/>
+    <rect width="1" height="4" x="15" y="1"/>
+    <rect width="2" height="2" x="2" y="2"/>
+    <rect width="2" height="2" x="12" y="2"/>
+    <rect width="6" height="1" y="10"/>
+    <rect width="6" height="1" y="15"/>
+    <rect width="1" height="4" y="11"/>
+    <rect width="1" height="4" x="5" y="11"/>
+    <rect width="2" height="2" x="2" y="12"/>
+    <rect width="5" height="1" x="1" y="8"/>
+    <rect width="2" height="1" x="9" y="8"/>
+    <rect width="5" height="1" x="10" y="7"/>
+    <rect width="5" height="1" x="2" y="7"/>
+    <rect width="1" height="6" x="7"/>
+    <rect width="1" height="3" x="7" y="10"/>
+    <rect width="1" height="2" x="7" y="14"/>
+    <rect width="1" height="1" x="7" y="8"/>
+    <rect width="2" height="1" x="12" y="9"/>
+    <rect width="1" height="1" x="12" y="10"/>
+    <rect width="1" height="2" x="15" y="10"/>
+    <rect width="2" height="1"/>
+    <rect width="2" height="1"/>
+    <rect width="1" height="1"/>
+    <rect width="4" height="1"/>
+    <rect width="1" height="1"/>
+    <rect width="2" height="1" x="13" y="8"/>
+    <rect width="1" height="5" x="8" y="5"/>
+    <rect width="3" height="1" x="8" y="10"/>
+    <rect width="1" height="1" x="8" y="15"/>
+    <rect width="2" height="1" x="9" y="14"/>
+    <rect width="2" height="1" x="8" y="13"/>
+    <rect width="4" height="1" x="8" y="12"/>
+    <rect width="1" height="1" x="9" y="11"/>
+    <rect width="3" height="1" x="11" y="11"/>
+    <rect width="1" height="2" x="8" y="2"/>
+</svg>
