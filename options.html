@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>QR Code</title>
+	<style>
+	input[type="range"] {
+		vertical-align: middle;
+	}
+	footer {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	</style>
+</head>
+<body>
+	<form>
+		<section id="section-general">
+			<h3 data-i18n="general"></h3>
+			<p class="browser-style">
+				<input type="checkbox" name="autoclose" id="autoclose">
+				<label for="autoclose" data-i18n="autoclose"></label>
+			</p>
+			<p class="browser-style">
+				<input type="checkbox" name="whiteIcon" id="whiteIcon">
+				<label for="whiteIcon" data-i18n="whiteIcon"></label>
+			</p>
+		</section>
+
+		<section id="section-generate">
+			<h3 data-i18n="generate"></h3>
+			<p>
+				<label for="ecl" data-i18n="ecl"></label>
+				<select id="ecl" name="ecl" class="browser-style">
+					<option value="H">H (30%)</option>
+					<option value="Q">Q (25%)</option>
+					<option value="M" selected>M (15%)</option>
+					<option value="L">L (7%)</option>
+				</select>
+			</p>
+			<p>
+				<label for="moduleSize" data-i18n="module_size"></label>
+				<input class="browser-style" type="range" name="moduleSize" id="moduleSize" min="1" max="30">
+				<output name="moduleSizeText"></output>
+			</p>
+			<p class="browser-style">
+				<label data-i18n="size"></label>
+				<output name="imageSize"></output>
+			</p>
+		</section>
+
+		<section id="section-scan">
+			<h3 data-i18n="scan"></h3>
+			<p class="browser-style">
+				<label for="openUrl" data-i18n="url"></label>
+				<select id="openUrl" name="openUrl" class="browser-style">
+					<option value="not" data-i18n="notDetectUrl"></option>
+					<option value="ask" data-i18n="askOpenUrl"></option>
+					<option value="auto" data-i18n="autoOpenUrl"></option>
+				</select>
+			</p>
+		</section>
+
+		
+
+		<footer>
+			<div><a href="https://c7x.me/donate/" data-i18n="donate"></a></div>
+		</footer>
+	</form>
+
+	<script src="js/options.js"></script>
+</body>
+</html>

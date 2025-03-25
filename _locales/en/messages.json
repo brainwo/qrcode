@@ -1,0 +1,78 @@
+{
+   "name": {
+      "message": "QR Code (Generator and Reader)"
+   },
+   "short_name": {
+      "message": "QR Code"
+   },
+   "description": {
+      "message": "Generate QR Code from the url of current page, link or selected text. And decode QR Code in image."
+   },
+   "options": {
+      "message": "Options"
+   },
+
+   "edit": {
+      "message": "Edit QR Code:"
+   },
+   "generate": {
+      "message": "Generate QR Code"
+   },
+   "scan": {
+      "message": "Scan QR Code"
+   },
+
+   "open": {
+      "message": "Open Website?"
+   },
+   "result": {
+      "message": "Result:"
+   },
+   "generate_error": {
+      "message": "Unable to generate QR Code."
+   },
+   "scan_error": {
+      "message": "Unable to decode QR Code."
+   },
+
+   "general": {
+      "message": "General"
+   },
+   "autoclose": {
+      "message": "Close window when losing focus"
+   },
+   "whiteIcon": {
+      "message": "Use the white toolbar icon"
+   },
+   "url": {
+      "message": "URL:"
+   },
+   "notDetectUrl": {
+      "message": "Not detect URL"
+   },
+   "askOpenUrl": {
+      "message": "Ask for opening URL"
+   },
+   "autoOpenUrl": {
+      "message": "Open URL automatically"
+   },
+   "ecl": {
+      "message": "Error correction level: "
+   },
+   "size": {
+      "message": "Image size: "
+   },
+   "module_size": {
+      "message": "Module size: "
+   },
+
+   "feedback": {
+      "message": "Feedback"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "sendUsageStats": {
+      "message": "Send anonymous usage stats"
+   }
+}

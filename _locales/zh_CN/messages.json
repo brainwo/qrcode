@@ -1,0 +1,78 @@
+{
+   "name": {
+      "message": "二维码（生成及识别）"
+   },
+   "short_name": {
+      "message": "二维码"
+   },
+   "description": {
+      "message": "将当前页面地址、选中的文本或链接等生成二维码，也可以识别网页中的二维码图片（支持识别中文）。"
+   },
+   "options": {
+      "message": "选项"
+   },
+
+   "edit": {
+      "message": "编辑二维码："
+   },
+   "generate": {
+      "message": "生成二维码"
+   },
+   "scan": {
+      "message": "识别二维码"
+   },
+
+   "open": {
+      "message": "打开网站？"
+   },
+   "result": {
+      "message": "识别结果："
+   },
+   "generate_error": {
+      "message": "无法生成二维码。"
+   },
+   "scan_error": {
+      "message": "无法识别二维码。"
+   },
+
+   "general": {
+      "message": "常规"
+   },
+   "autoclose": {
+      "message": "窗口失去焦点后自动关闭"
+   },
+   "whiteIcon": {
+      "message": "使用白色工具栏图标"
+   },
+   "url": {
+      "message": "网址："
+   },
+   "notDetectUrl": {
+      "message": "不检测网址"
+   },
+   "askOpenUrl": {
+      "message": "询问是否打开网址"
+   },
+   "autoOpenUrl": {
+      "message": "自动打开网址"
+   },
+   "ecl": {
+      "message": "纠错级别："
+   },
+   "size": {
+      "message": "图片尺寸："
+   },
+   "module_size": {
+      "message": "码元大小："
+   },
+
+   "feedback": {
+      "message": "意见反馈"
+   },
+   "donate": {
+      "message": "捐赠"
+   },
+   "sendUsageStats": {
+      "message": "发送匿名使用统计信息"
+   }
+}
